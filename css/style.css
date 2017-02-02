@@ -1,0 +1,30 @@
+body {
+    background-color: #00334d;
+    color: #ffffcc;
+}
+
+.heading {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.heading h1 {
+    font-size: 4em;
+}
+
+.search-icon {
+    color: orange;
+}
+
+.keyword {
+    background-color: #00334d;
+    border: 5px solid orange;
+    border-radius: 4px;
+}
+
+.search-res {
+    background-color: #ffffcc;
+    color: black;
+    padding: 5px 20px 5px 20px;
+    margin-bottom: 10px;
+}
