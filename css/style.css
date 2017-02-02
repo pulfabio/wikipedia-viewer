@@ -19,8 +19,14 @@ body {
 .keyword {
     background-color: #00334d;
     border: 5px solid orange;
-    border-radius: 4px;
+    border-radius: 50px;
 }
+
+.keyword:focus {
+    outline: none;
+}
+
+
 
 .search-res {
     background-color: #ffffcc;
